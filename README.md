@@ -16,4 +16,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://hassanatb-o.github.io/stats-preview-card/

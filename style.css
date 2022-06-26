@@ -63,6 +63,7 @@ img#mobile{
     #card{
         flex-direction: column-reverse;
         text-align: center;
+        width: 70%;
     }
     #word{
         margin-top: 12px;

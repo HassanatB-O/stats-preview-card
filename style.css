@@ -22,6 +22,7 @@ body{
     padding: 40px;
     border-bottom-left-radius: 11px;
     border-top-left-radius: 11px;
+    width: 450px;
 }
 #header{
     color: hsla(0, 0%, 100%, 0.75);
@@ -84,6 +85,7 @@ img#mobile{
     #container{
         border-top-left-radius: 0;
         border-bottom-right-radius: 12px;
+        width: fit-content;
     }
     #image{
         overflow-x: hidden;
